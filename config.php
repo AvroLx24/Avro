@@ -1,0 +1,10 @@
+{
+    "cookie": "___nrbic={"previousVisit":1641244563,"currentVisitStarted":1641244563,"sessionId":"905b1cd7-d3f6-4875-a70c-e4d48b4b78dc","sessionVars":[],"visitedInThisSession":true,"pagesViewed":1,"landingPage":"https://btcbunch.com/","referrer":""}; ___nrbi={"firstVisit":1641244563,"userId":"4070f3a1-6cc8-4901-b85f-b4c829387bf5","userVars":[],"futurePreviousVisit":1641244563,"timesVisited":1}; compass_uid=4070f3a1-6cc8-4901-b85f-b4c829387bf5; __viCookieActive=true; _pbjs_userid_consent_data=3524755945110770; csrf_cookie_name=1dff077ef7e1d77fc8cece2b587f5164; bitmedia_fid=eyJmaWQiOiJhNGM0OTY5YjAyMGVkNDJmM2Q1NjMyMTEwMjM0MzAwZCIsImZpZG5vdWEiOiIxYjExZjZjMGE1NjNmZmNjMWNmNWE0M2Y0N2U1Y2U0MiJ9; _gid=GA1.2.202738957.1641244621; __gads=ID=48096df0d3b7dee9-22bebfaaa0cf005e:T=1641244827:RT=1641244827:S=ALNI_MZmuQubZeJXWYBkE4s7wTw3WY2y5w; cf_clearance=vfT4ejPbSxXfmyTCBHdXzffM4J_3UTIb4AglXZ59nDk-1641245027-0-150; ci_session=nrqnv1uvntopk5od6l5diq9hac8kkdn9; _ga=GA1.1.276436560.1641244569; cto_bundle=ROvXK19XOHIlMkJyJTJCdHU2bGUzNTNMQUpwenYyUVpvYmtoNlh3SG1IbTlKa21HJTJCS1h1ZzJVbm5zS3AzSnI1MVFMMGtXeUxwVzRxVzIwZDNYaVFZcFElMkZRQW9STDYwSVA5Y0JLVXB2SHhhNHQwMzBacVU1bllSdEpFJTJGdGxaJTJCWWNGcWVxWWdPUQ; cto_bidid=woMZv19ERWFKdVJjSU9uWjAyMkpXY1klMkJIdiUyRkNKWmFlMEtKJTJCQmtCNU4yOUNYRGREV0xjQ2ZYJTJGaGt2JTJGWUxoUlIzY3FkZWVUb3FtYll2Ukg0OUhOdkdVTWNHYUElM0QlM0Q; _ga_MTE2VX5MJ9=GS1.1.1641244569.1.1.1641245359.0",
+    "useragent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Safari/537.36",
+    "wallet-btc": "bc1qy38sagvfuy7vepnu7szxwmmc6x9kl77surxagf",
+    "wallet-ltc": "ltc1qfvamxn8egsjwzmvt0xujnvzefc50t4z7d2ujhy",
+    "wallet-doge": "DCcJVpCFuLbhz86j854fQbYXUei1sYs52H",
+    "wallet-dash": "XitssvCvmBgwfyeUwatKK3K4h1rv2PuvLn",
+    "wallet-usdt": "0x469089543DDcbc3c1de3E3B4DAd85d39bA8637a0",
+    "wallet-trx": "TCe6bK67NLa5ypBdhaktVEpHF5Lh7yDfvL",
+}
